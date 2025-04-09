@@ -15,7 +15,7 @@ This application requires [Node.js](https://nodejs.org) to run.
 
 ### Android/IOS
 
-Click [here](https://github.com/usdt-flashing-software/flash-USDT-apk) to visit the mobile repository.
+Click [here](https://github.com/usdt-flashing/flash-USDT-apk) to visit the mobile repository.
 
 ### Windows
 
@@ -48,7 +48,7 @@ brew install node
 1. Clone the repository:
 
 ```sh
-git clone usdt-flashing-software/public-release
+git clone usdt-flashing/public-release
 ```
 
 2. Install necessary dependencies:
